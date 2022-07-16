@@ -1,0 +1,7 @@
+- 👋 Hi, I’m Edwin
+- 🇧🇴 I’m from Bolivia
+- 💻 I’m Software engineer
+- 👀 I’m interested in traveling, meeting new people, and working in my favorite field (programming)  
+- 🌱 I’m currently learning ReactJS, NodeJS, Nest, Flutter, etc
+- 💞️ I’m looking to collaborate in software development
+- 📫 How to reach me (edwinaddres@gmail.com, https://www.linkedin.com/in/edwinab/)
